@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1022946742871",
+    "project_id": "studytogether-ff930",
+    "storage_bucket": "studytogether-ff930.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022946742871:android:824a541c68ed91038d8912",
+        "android_client_info": {
+          "package_name": "com.example.studytogether"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdN9tjbLaQJoxlDNIE6C8VIArma2TCLnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022946742871:android:661e53a36bfb37818d8912",
+        "android_client_info": {
+          "package_name": "com.example.studytogether5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdN9tjbLaQJoxlDNIE6C8VIArma2TCLnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
